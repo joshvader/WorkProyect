@@ -1,0 +1,27 @@
+#logo {
+position: absolute;
+width: 120px;
+height: 56px;
+left: 80px;
+padding:4px;
+top: 4px;
+border-style: none;
+
+}
+
+#logo_2{
+position: left;
+width: 125px;
+height: 120px;
+left: 4px;
+top: 681px;
+}
+
+#logo_3{
+position: left center;
+margin:20px;
+width: 125px;
+height: 120px;
+left: 1220px;
+top: 684px;
+}
